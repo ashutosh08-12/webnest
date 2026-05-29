@@ -27,7 +27,7 @@ const TestimonialSection = () => {
         <div className="flex gap-[26px] px-[30px] pb-[28px] mt-[px]">
           <div className="relative w-[594px] h-[534px] mt-[20px]">
             <img
-              src="/public/testimonial-left.png"
+              src="/testimonial-left.png"
               alt="testimonial"
               className="w-full h-full object-cover rounded-[42px]"
             />
@@ -36,7 +36,7 @@ const TestimonialSection = () => {
           <div className="flex-1 flex flex-col justify-between">
             <div className="relative">
               <img
-                src="/public/testimonial-right.png"
+                src="/testimonial-right.png"
                 alt="shape"
                 className="w-full h-[378px] object-cover"
               />

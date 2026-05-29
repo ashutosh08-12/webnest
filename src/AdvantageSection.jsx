@@ -93,7 +93,7 @@ const AdvantageSection = () => {
 
           <div className="relative">
             <img
-              src="/public/advantage-devices.png"
+              src="/advantage-devices.png"
               alt="Devices"
               className="w-full h-[548px] object-cover rounded-[34px]"
             />

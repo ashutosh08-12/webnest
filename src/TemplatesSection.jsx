@@ -5,19 +5,19 @@ const templates = [
     title: "Chatbot for Marketing",
     description:
       "Provide recommendations and process transactions in a chat.",
-    image: "/public/template-card-1.png",
+    image: "/template-card-1.png",
   },
   {
     title: "Chatbot for HR",
     description:
       "Find talent and interact with candidates in an innovative way",
-    image: "/public/template-card-2.png",
+    image: "/template-card-2.png",
   },
   {
     title: "Chatbot for Marketing",
     description:
       "optimise your onboarding process and give your employee satisfaction",
-    image: "/public/template-card-3.png",
+    image: "/template-card-3.png",
   },
 ];
 

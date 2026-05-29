@@ -8,7 +8,7 @@ const HeroSection = () => {
           <div className="mt-10">
            <div className="relative w-fit">
   <img
-    src="/public/highlight-shape.png"
+    src="/highlight-shape.png"
     alt=""
     className="absolute bottom-[6px] top-16 w-[550px] z-0"
   />
@@ -36,7 +36,7 @@ const HeroSection = () => {
 
             <div className="mt-12">
   <img
-    src="/public/Card.png"
+    src="/Card.png"
     alt="Guide Card"
     className="w-[610px] h-[258px] object-contain"
   />

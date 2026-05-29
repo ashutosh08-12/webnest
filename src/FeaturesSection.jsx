@@ -35,31 +35,31 @@ const FeaturesSection = () => {
             <div className="relative mt-[42px] w-[613px] h-[436px] overflow-hidden rounded-[40px] bg-[#EFEFEF]">
               
               <img
-                src="/public/integration-bg.png"
+                src="/integration-bg.png"
                 alt="Integration Background"
                 className="absolute inset-0 w-full h-full object-cover"
               />
 
               <img
-                src="/public/notion-icon.png"
+                src="/notion-icon.png"
                 alt=""
                 className="absolute left-[36px] top-[42px] w-[113px] h-[113px]"
               />
 
               <img
-                src="/public/evernote-icon.png"
+                src="/evernote-icon.png"
                 alt=""
                 className="absolute left-[342px] top-[66px] w-[80px] h-[80px]"
               />
 
               <img
-                src="/public/meet-icon.png"
+                src="/meet-icon.png"
                 alt=""
                 className="absolute left-[170px] top-[128px] w-[148px] h-[148px]"
               />
 
               <img
-                src="/public/teams-icon.png"
+                src="/teams-icon.png"
                 alt=""
                 className="absolute right-[46px] top-[136px] w-[96px] h-[96px]"
               />
@@ -102,7 +102,7 @@ const FeaturesSection = () => {
                 <div className="flex items-center gap-3 mt-[20px]">
   <div className="w-[34px] h-[34px] rounded-full bg-black flex items-center justify-center">
     <img
-      src="/public/robot.png"
+      src="/robot.png"
       alt="Rotar Robot"
       className="w-[32px] h-[32px] object-contain"
     />
@@ -153,7 +153,7 @@ const FeaturesSection = () => {
 
   <div className="absolute top-[95px] left-[30px] w-[58px] h-[58px] rounded-full bg-[#1F1F1F] flex items-center justify-center">
     <img
-      src="/public/whatsapp.png"
+      src="/whatsapp.png"
       alt="whatsapp"
       className="w-[28px] h-[28px] object-contain"
     />
@@ -161,7 +161,7 @@ const FeaturesSection = () => {
 
   <div className="absolute top-[94px] right-[30px] w-[51px] h-[51px] rounded-full bg-[#1F1F1F] flex items-center justify-center">
     <img
-      src="/public/instagram.png"
+      src="/instagram.png"
       alt="instagram"
       className="w-[28px] h-[28px] object-contain"
     />
@@ -169,7 +169,7 @@ const FeaturesSection = () => {
 
   <div className="absolute bottom-[28px] left-[48px] w-[55px] h-[55px] rounded-full bg-[#1F1F1F] flex items-center justify-center">
     <img
-      src="/public/messenger.png"
+      src="/messenger.png"
       alt="messenger"
       className="w-[28px] h-[28px] object-contain"
     />
@@ -177,7 +177,7 @@ const FeaturesSection = () => {
 
   <div className="absolute bottom-[36px] right-[48px] w-[48px] h-[48px] rounded-full bg-[#1F1F1F] flex items-center justify-center">
     <img
-      src="/public/twitter.png"
+      src="/twitter.png"
       alt="twitter"
       className="w-[28px] h-[28px] object-contain"
     />
@@ -185,7 +185,7 @@ const FeaturesSection = () => {
 
   <div className="w-[69px] h-[69px] mt-14 rounded-full bg-[#1F1F1F] flex items-center justify-center z-10">
     <img
-      src="/public/center-logo.png"
+      src="/center-logo.png"
       alt="center"
       className="w-[38px] h-[38px] object-contain"
     />

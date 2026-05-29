@@ -5,7 +5,7 @@ const CTASection = () => {
     <section className="max-w-[1360px] h-[468px] mx-auto mt-10">
       <div className="relative w-full ">
         <img
-          src="/public/cta-bg.png"
+          src="/cta-bg.png"
           alt="CTA Background"
           className="w-full h-full object-cover"
         />
